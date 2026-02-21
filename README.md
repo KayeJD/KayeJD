@@ -1,4 +1,4 @@
-# Hey, I'm Karryl :)
+# Hey, I'm Kaye :)
 
 **Software Engineer** | Building scalable systems & exploring AI/ML
 
