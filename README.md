@@ -36,14 +36,6 @@ Currently volunteering at **Irenix Empowerment Foundation**, where I'm helping b
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
- 
-## 📊 GitHub Stats
-
-![Karryl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KayeJD&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KayeJD&layout=compact&theme=tokyonight&hide_border=true)
-
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karryl/)
