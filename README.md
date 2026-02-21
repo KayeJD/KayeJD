@@ -2,7 +2,6 @@
 
 **Software Engineer** | Building scalable systems & exploring AI/ML
 
----
 
 ## 🚀 About Me
 
@@ -15,7 +14,6 @@ Currently volunteering at **Irenix Empowerment Foundation**, where I'm helping b
 - 💬 Ask me about: Backend development, IoT systems, or migrating apps to the cloud
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/karryl/)
 
----
 
 ## 🛠️ Tech Stack
 
@@ -38,7 +36,6 @@ Currently volunteering at **Irenix Empowerment Foundation**, where I'm helping b
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
  
 ## 📊 GitHub Stats
 
@@ -46,7 +43,6 @@ Currently volunteering at **Irenix Empowerment Foundation**, where I'm helping b
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KayeJD&layout=compact&theme=tokyonight&hide_border=true)
 
----
 
 ## 🌐 Connect With Me
 
@@ -54,7 +50,6 @@ Currently volunteering at **Irenix Empowerment Foundation**, where I'm helping b
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kayejd.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kjdumalag@gmail.com)
 
----
 
 <div align="center">
   <i>Thanks for stopping by! Feel free to explore my repos and reach out if you'd like to collaborate. 🚀</i>
