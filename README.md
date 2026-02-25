@@ -12,7 +12,7 @@ Currently volunteering at **Irenix Empowerment Foundation**, where I'm helping b
 - 🔭 Working on: [VOLEX](https://github.com/KayeJD/Volex) — a personal finance management web app
 - 🌱 Learning: Cloud architecture, system design, and advanced ML techniques
 - 💬 Ask me about: Backend development, IoT systems, or migrating apps to the cloud
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/karryl/)
+- 📫 Reach me: On [LinkedIn](https://www.linkedin.com/in/karryl/) or through [email](mailto:kjdumalag@gmail.com)
 
 
 ## 🛠️ Tech Stack
