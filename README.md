@@ -44,5 +44,5 @@ Currently volunteering at **Irenix Empowerment Foundation**, where I'm helping b
 
 
 <div align="center">
-  <i>Thanks for stopping by! Feel free to explore my repos and reach out if you'd like to collaborate. 🚀</i>
+  <i>Thanks for stopping by!</i>
 </div>
