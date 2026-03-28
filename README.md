@@ -3,11 +3,9 @@
 **Software Engineer** | Building scalable systems & exploring AI/ML
 
 
-## 🚀 About Me
+## About Me
 
-I'm a software engineer passionate about creating impactful solutions — from backend systems in healthcare tech to IoT embedded projects. I love working across the stack, whether it's designing cloud architecture, building APIs, or crafting polished frontends.
-
-Currently volunteering at **Irenix Empowerment Foundation**, where I'm helping build an EHR system from the ground up in Google Cloud, integrating AI/ML for predictive analytics.
+Currently volunteering at **Irenix Empowerment Foundation**, where I'm helping build an EHR system from the ground up in Google Cloud, integrating AI/ML for predictive analytics. In my free time, I'm either building another guitar pedal or designing another cyberdeck.
 
 - 🔭 Working on: [VOLEX](https://github.com/KayeJD/Volex) — a personal finance management web app
 - 🌱 Learning: Cloud architecture, system design, and advanced ML techniques
@@ -15,7 +13,7 @@ Currently volunteering at **Irenix Empowerment Foundation**, where I'm helping b
 - 📫 Reach me: On [LinkedIn](https://www.linkedin.com/in/karryl/) or through [email](mailto:kjdumalag@gmail.com)
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -36,7 +34,7 @@ Currently volunteering at **Irenix Empowerment Foundation**, where I'm helping b
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🌐 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karryl/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kayejd.github.io/)
