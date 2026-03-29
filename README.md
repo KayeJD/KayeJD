@@ -6,7 +6,9 @@
 ## About Me
 
 Currently volunteering at **Irenic Therapeutic**, where I'm helping build an EHR system from the ground up in Google Cloud, integrating AI/ML for predictive analytics. 
-Aside from that, I also have a couple software and hardware projects I do here and there :) I also recently discovered what cyberdecks are. If this is still in my readme, you can probably safely assume I'm in the process of designing another one lol
+Aside from that, I also have a couple software and hardware projects I do here and there :) 
+
+I recently discovered what cyberdecks are. If this is still in my readme, you can probably safely assume I'm in the process of making another one lol
 
 - 🔭 Working on: [VOLEX](https://github.com/KayeJD/Volex) — a personal finance management web app
 - 🌱 Learning: Cloud architecture, system design, and advanced ML techniques
